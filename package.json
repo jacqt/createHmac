@@ -37,7 +37,6 @@
     "inherits": "^2.0.1"
   },
   "browser": "./browser.js",
-  },
   "react-native": {
     "zlib": "browserify-zlib",
     "console": "console-browserify",
